@@ -1,8 +1,5 @@
 <resources>
-    <string name="app_name">SzegediMenetrend</string>
-    <string name="title_activity_bejelentkezes">BejelentkezesActivity</string>
-    <string name="title_activity_jaratok">JaratokActivity</string>
-    <string name="title_activity_regisztracio">RegisztracioActivity</string>
+    <string name="app_name">Szegedi menetrend</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
     <string name="action_sign_in">Sign in or register</string>
@@ -11,4 +8,24 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="cancel">Vissza</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="email">email</string>
+    <string name="password">jelszó</string>
+    <string name="register">Regisztráció</string>
+    <string name="my_account">Fiókom</string>
+    <string name="placeholder">##</string>
+    <string name="email_address">Email cím</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="username">Felhasználónév</string>
+    <string name="opinion">Mi a véleményed a járatról?</string>
+    <string name="add">Hozzáadás</string>
+    <string name="edit">Módosítás</string>
+    <string name="headsign">Végállomás</string>
+    <string name="stop">Megálló</string>
+    <string name="comments">Megjegyzések</string>
+    <string name="add_comment">Szólj hozzá!</string>
+    <string name="trips">Járatok</string>
+    <string name="username_sc">felhasználónév</string>
+    <string name="password_again">jelszó újra</string>
 </resources>
